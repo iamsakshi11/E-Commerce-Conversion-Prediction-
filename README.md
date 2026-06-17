@@ -264,7 +264,6 @@ E-Commerce-Conversion-Prediction/
 ├── train.csv
 ├── public_test.csv
 ├── private_test.csv
-├── sample_submission.csv
 │
 ├── model.py
 ├── submission.csv
